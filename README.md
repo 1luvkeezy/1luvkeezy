@@ -1,4 +1,4 @@
-<h2 align="left">hi!11!1 welcome to my github, im keezy and i dont really code anything lol :p</h2>
+<h2 align="left">hi!!1!1! welcome to my github, im keezy and i dont really code anything lol :p</h2>
 
 ###
 
